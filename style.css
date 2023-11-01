@@ -1,0 +1,44 @@
+h1 {
+  color: black;
+}
+body {
+  background-color: khaki;
+  font-family: "lucida sans", verdana, sans-serif;
+}
+img {
+  width: 200px;
+}
+.foto {
+  background-color: black;
+}
+.foto img {
+  width: 23%;
+}
+.promo h2{
+    font-size: 30px;
+    text-align: center;
+    color: red;
+}
+.promo h3{
+    color: red;
+    text-align: center;
+}
+
+.cod p {
+  background-color: aqua;
+  border: 2px;
+  margin: auto;
+  font-weight: bold;
+  color: blue;
+  text-align: center;
+  padding: 10px;
+ width: 500px;
+}
+#tombol{
+    background-color: yellow;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 6px;
+}
+
